@@ -1,17 +1,19 @@
-# Hi, I'm Niles
+# About Me
 
-I build simple websites with HTML, CSS, and JavaScript.
+I'm Niles, a web developer and full-stack engineer focused on building clear, practical, and maintainable web applications.
 
-I like code that is easy to read, easy to understand, and easy to change.
+I work primarily with HTML, CSS, JavaScript, Git, and GitHub. I value simple solutions, readable code, and interfaces that are easy to use.
 
-## What I'm Learning
+## What I Do
 
-- HTML
-- CSS
-- JavaScript
-- Git and GitHub
+- Build responsive websites and web applications
+- Write clean, readable HTML, CSS, and JavaScript
+- Develop frontend interactions and application logic
+- Work with APIs, databases, and backend functionality
+- Use Git and GitHub for version control and collaboration
+- Improve existing projects by simplifying code and structure
 
-## Projects
+## Featured Projects
 
 ### Portfolio
 
@@ -21,12 +23,14 @@ https://nilesleesmith.github.io
 
 ### Codewars
 
-JavaScript exercises I use to practice programming.
+JavaScript programming exercises focused on problem solving and readable solutions.
 
 https://github.com/nilesleesmith/my-codewars
 
-## My Approach
+## Development Approach
 
-I prefer simple code over clever code.
+I prefer simple code over unnecessary complexity.
 
-If someone who is new to programming can read my code and understand what it does, that is a good result.
+My goal is to write software that is easy to read, easy to maintain, and easy for another developer to understand.
+
+I believe good code should clearly communicate what it does.
