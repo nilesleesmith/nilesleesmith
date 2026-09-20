@@ -2,7 +2,20 @@
 
 I'm Niles, a web developer and full-stack engineer focused on building clear, practical, and maintainable web applications.
 
-I work primarily with HTML, CSS, JavaScript, Git, and GitHub. I value simple solutions, readable code, and interfaces that are easy to use.
+I enjoy using technology to automate repetitive work, solve practical problems, and make complicated tasks easier to manage.
+
+## Technologies
+
+I currently work with and study technologies including:
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- APIs
+- Frontend development
+- Backend development
 
 ## What I Do
 
